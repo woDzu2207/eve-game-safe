@@ -1,0 +1,32 @@
+{
+ "eve": [
+  "eve_neutral.webp"
+ ],
+ "looks": {
+  "t1-closeup": [
+   "eve_neutral.webp"
+  ],
+  "t1-pink": [
+   "eve_neutral.webp"
+  ],
+  "t2-casual": [
+   "eve_neutral.webp"
+  ],
+  "t2-stripes": [
+   "eve_neutral.webp"
+  ],
+  "t3-henley": [
+   "eve_neutral.webp"
+  ],
+  "t3-ripped": [
+   "eve_neutral.webp"
+  ],
+  "t4-corset": [
+   "eve_neutral.webp"
+  ],
+  "t4-reddress": [
+   "eve_neutral.webp"
+  ]
+ },
+ "voice": []
+}
